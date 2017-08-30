@@ -1,5 +1,5 @@
 # Hotdog Tabs
-An Atom plugin that makes tabs look like 🌭. Unfortunately, it only works properly for actual tabs. Spaces result in one hotdog on the left of the line.
+An Atom plugin that makes tabs look like 🌭. It does not work for spaces.
 
 ![example](http://i.imgur.com/7f27Pvk.png)
 
