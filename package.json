@@ -1,12 +1,17 @@
 {
-  "name": "hotdog-tabs",
-  "version": "1.1.1",
-  "description": "Make tabs look like hotdogs!",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kmh11/hotdog-tabs"
-  },
-  "engines": {
-    "atom": "*"
-  }
+	"name": "hotdog-tabs",
+	"version": "1.1.1",
+	"description": "Make tabs look like hotdogs!",
+	"keywords": [
+		"tabs",
+		"hotdogs",
+		"hot dogs"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kmh11/hotdog-tabs"
+	},
+	"engines": {
+		"atom": "*"
+	}
 }
